@@ -1,2 +1,2 @@
 pengenalan git commit
-pengenalan git status & git add
+pengenalan git status & git addgit
