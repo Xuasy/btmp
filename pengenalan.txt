@@ -1,1 +1,2 @@
-10101010
+pengenalan git commit
+pengenalan git status & git add
